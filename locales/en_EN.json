@@ -1,0 +1,32 @@
+{
+    "localization_name": "English",
+    "localization_short_code": "en",
+    "phrases" : {
+        "welcomes": "Hello!",
+        "greeting": "Hello, %s!",
+        "search_history": "Search history",
+        "search_new_anime": "Search anime",
+        "change_language": "Change language",
+        "new_change_language": "Language changed to : ",
+        "search_offer": "Enter the name of the anime you want to search for",
+        "choose_language": "Choosed language: ",
+        "select_language": "Select a language: ",
+        "come_back": "back",
+        "return_main_keyboard": "Return to the main keyboard",
+        "lang_used": "The language is already in use",
+        "none_lang": "The select language %s does not exist in the localizations",
+        "already_change_lang": "You are now in the language change mode. Select a language or press 'back'.",
+        "choose_anime": "Select an anime:",
+        "error": "There was an error. Please try again later.",
+        "error_search": "Error searching for anime.",
+        "res_search": "Search results:",
+        "a_srch": "Search history for the user ",
+        "a_name": "Anime title: ",
+        "a_num": "Number of episodes: ",
+        "a_st": "Status: ",
+        "a_sour": "Source: ",
+        "a_inf": "No search history information found.",
+        "clear_hist": "Clear history",
+        "hist_cleared": "Сleared"
+    }
+}
